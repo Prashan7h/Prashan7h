@@ -1,8 +1,12 @@
 # Hi, I'm Prashanth.
 
-**Analytics thinker. Builder. Physics graduate.**
+Fascinated by Startups, Theoretical Physics, Philosophy, Information, Computation, Rationality, Human Computer Interface, Neuroscience, and Mind.
 
-I work at the intersection of data, product, and ideas. My background is in Theoretical Physics (King's College London), and I've spent my career in early-stage startups — often as the first or sole analyst — helping teams make sense of their data and build better products.
+- Worked across three Series A startups, often as the first or sole analyst
+- Helped scale a marketing agency while heading analytics
+- Founded a startup and a podcasting agency
+- Organized technical book clubs and analytics events across Bangalore, London, and Berlin
+- Studied Theoretical Physics at King's College London — still hopeful of retiring as a physicist someday
 
 ---
 
